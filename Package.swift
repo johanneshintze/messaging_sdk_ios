@@ -16,7 +16,7 @@ let package = Package(
     dependencies: [
         .package(name: "ZendeskMessagingAPISDK",
                  url: "https://github.com/johanneshintze/messagingapi_sdk_ios",
-                 .exact("3.8.4")),
+                 .exact("3.8.5")),
         .package(name: "ZendeskCommonUISDK",
                  url: "https://github.com/johanneshintze/commonui_sdk_ios",
                  .exact("6.1.3"))
